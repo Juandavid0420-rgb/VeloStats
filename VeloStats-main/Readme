@@ -1,0 +1,102 @@
+# 🚴‍♂️ VeloStats
+
+**VeloStats** es una app móvil desarrollada en **Kotlin + Android Studio** que permite realizar un seguimiento detallado de tus rutas en bicicleta. Podrás visualizar tu recorrido en tiempo real 🗺️, registrar estadísticas como distancia, tiempo y velocidad 📈, y compartir tus rutas con amigos y familiares 📤.
+
+---
+
+## ✨ Funcionalidades destacadas
+
+✔️ **Seguimiento de rutas** en bicicleta mediante GPS.
+📊 **Estadísticas en tiempo real**: distancia recorrida, duración y velocidad promedio.
+📚 **Historial** de rutas guardadas para consultar tu progreso.
+🤝 **Compartir recorridos** con tus contactos.
+🧭 **Interfaz intuitiva** inspirada en buenas prácticas de diseño.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+| Tecnología              | Descripción                                  |
+| ----------------------- | -------------------------------------------- |
+| 🧑‍💻 **Kotlin**        | Lenguaje principal del desarrollo.           |
+| 🧱 **Android Jetpack**  | Arquitectura robusta con MVVM.               |
+| 🗺️ **Google Maps API** | Para visualizar las rutas en el mapa.        |
+| 🗃️ **Room Database**   | Guardar localmente las rutas y estadísticas. |
+| 🔐 **Permissions API**  | Gestión segura de permisos de ubicación.     |
+
+---
+
+## 🖼️ Diseño de la App
+
+* 📐 **Figma (Diseño UI/UX):**
+  [Ver prototipo en Figma](https://www.figma.com/proto/npoXT4UzRN4zmaMwBkHTPN/VeloStats?node-id=230-123&p=f&t=iJeVEy1uWrqP4eMq-0&scaling=scale-down&content-scaling=fixed&page-id=2%3A3&starting-point-node-id=230%3A123)
+
+* 🧩 **Diagrama del sistema:**
+  ![Diagrama](./images/diagrama.png)
+
+* 🎤 **Presentación del proyecto:**
+  [Ver presentación en Canva](https://www.canva.com/design/DAGi22GKRm4/qiO-JWtBDzgwTUgmSIUadQ/edit)
+
+---
+
+##🧪 Instalación paso a paso
+
+1. 📥 **Clona el repositorio**:
+
+   ```bash
+   git clone https://github.com/PUJ-Computacion-movil-2281/VeloStats.git
+   ```
+
+2. 📂 **Navega al proyecto**:
+
+   ```bash
+   cd VeloStats
+   ```
+
+3. 🧠 **Abre el proyecto en Android Studio**.
+
+4. 🔐 **Configura tu clave de Google Maps** en `local.properties`:
+
+   ```properties
+   MAPS_API_KEY=tu_clave_aquí
+   ```
+
+5. ▶️ **Ejecuta la app** en un emulador o dispositivo físico.
+
+---
+
+##🤝 Contribuciones
+
+¿Te gustaría aportar al proyecto? ¡Eres bienvenido/a! 🌟
+
+1. Haz un **fork** del repositorio.
+2. Crea una nueva **rama** para tu funcionalidad:
+
+   ```bash
+   git checkout -b feature/nombre-funcionalidad
+   ```
+3. Realiza tus cambios y haz **commit**:
+
+   ```bash
+   git commit -m "Agrega nueva funcionalidad"
+   ```
+4. Haz **push** a tu rama:
+
+   ```bash
+   git push origin feature/nombre-funcionalidad
+   ```
+5. Abre un **pull request** explicando tus cambios.
+
+---
+
+##📎 Repositorio
+
+🔗 [VeloStats en GitHub](https://github.com/PUJ-Computacion-movil-2281/VeloStats)
+
+
+##📄 Licencia
+
+Este proyecto está distribuido bajo la licencia MIT.
+Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+
+
