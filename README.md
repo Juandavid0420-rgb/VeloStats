@@ -96,6 +96,7 @@
 ## Desarrolladores:
 
 * [Juan David Sanchez](https://github.com/juandavid0420-rgb)
-* [Andres Felipe Centanaro](
-* [Alejandro Pinzon](
-* 
+* [Andres Felipe Centanaro](https://github.com/AFCTT)
+* [Alejandro Pinzon](https://github.com/alejandro09pf)
+* [Jeisson Camilo Ruiz Cristancho](https://github.com/Jeisson177)
+* [Julian Araque](https://github.com/Jul14n08)
